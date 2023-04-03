@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - altinlar
+  - tuzak
+  - kapi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - zeminler
+  - karakter
+  - altin
+  - tuzak
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: zemin
+    uniqueID: 4034107175
+    locked: 0
+  - name: altin
+    uniqueID: 3282637065
+    locked: 0
+  - name: tuzak
+    uniqueID: 3350808471
+    locked: 0
+  - name: karakter
+    uniqueID: 4021478649
+    locked: 0
